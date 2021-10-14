@@ -10,4 +10,4 @@ Skills: C++/ Python/Arduino/Eagle/Fusion 360
 - ⚡ Fun fact: I love heavy Metal 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioJim45&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioJim45&show_icons=true&theme=tokyonight)
