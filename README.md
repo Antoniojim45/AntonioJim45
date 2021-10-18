@@ -13,7 +13,7 @@ Skills: C++/ Python/Arduino/Eagle/Fusion 360
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniojim45&show_icons=true&theme=tokyonight&hide=javascript&langs_count=4)]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniojim45&show_icons=true&theme=tokyonight)]
 
-## Featured Projects:
+### Featured Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Antoniojim45&repo=Alien-Invasion&theme=tokyonight)]
 
 
