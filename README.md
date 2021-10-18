@@ -12,7 +12,7 @@ Skills: C++/ Python/Arduino/Eagle/Fusion 360
 ### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=tokyonight&hide=javascript&langs_count=4)]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioJim45&show_icons=true&theme=tokyonight)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Antoniojim45&repo=github-readme-stats&theme=tokyonight)]
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Antoniojim45&theme=tokyonight)]
 
 
