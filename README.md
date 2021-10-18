@@ -10,7 +10,7 @@ Skills: C++/ Python/Arduino/Eagle/Fusion 360
 - ⚡ Fun fact: I love heavy Metal 
 
 ### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniojim45&layout=compact&show_icons=true&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=tokyonight)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioJim45&show_icons=true&theme=tokyonight)
 
 
