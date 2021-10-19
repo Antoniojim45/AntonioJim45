@@ -6,10 +6,9 @@
 I am currently a student attending technical college in Mechatronics. I enjoy coding and developing programs through C++, Python, and Java. I also enjoy developing electronic projects and create many kinds of projects from robotics, home automation, and wireless communication. I am continuously looking for opportunities to expand my skills in code and electronics.
 
 ### Languages and tools:
-
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/11999539?s=200&v=4)" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/eagle.svg" /> <img height="32" width="32" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png" /> 
-
-
+&nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp; &nbsp;<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />&nbsp; &nbsp; <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />&nbsp; &nbsp;<img height="32" width="32" src="https://avatars.githubusercontent.com/u/11999539?s=200&v=4)" />&nbsp; &nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/eagle.svg" /> &nbsp; &nbsp;<img height="32" width="32" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/raspberry-pi-logo_resized_256.png" /> 
+&nbsp;
 - 🔭 I’m currently working on an FM Radio and Alien Invasion 
 - 🌱 I’m currently learning Python & Arduino 
 - 📫 How to reach me: a.jimeneztech@gmail.com 
@@ -32,8 +31,6 @@ I am currently a student attending technical college in Mechatronics. I enjoy co
             shows the image or the code for what the spacing is.
         </pre>
 -->
-
-
 
 
 
