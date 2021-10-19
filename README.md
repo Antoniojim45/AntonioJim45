@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Antonio Jimenez
+### Hi there 👋, I'm Antonio Jimenez <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 #### I am an electronic and coding enthusiast
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAntoniojim45%2Fhit-counter&count_bg=%230086FF&title_bg=%23555555&icon=&icon_color=%23008CFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
