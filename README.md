@@ -1,11 +1,12 @@
-### Hi there 👋, I'm Antonio Jimenez <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+### Hi there 👋, I'm Antonio Jimenez
 #### I am an electronic and coding enthusiast
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAntoniojim45%2Fhit-counter&count_bg=%230086FF&title_bg=%23555555&icon=&icon_color=%23008CFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 I am currently a student attending technical college in Mechatronics. I enjoy coding and developing programs through C++, Python, and Java. I also enjoy developing electronic projects and create many kinds of projects from robotics, home automation, and wireless communication. I am continuously looking for opportunities to expand my skills in code and electronics.
 
-Skills: C++/<i class="devicon-python-plain"></i>/Arduino/Eagle/Fusion 360
+## Languages and tools:
+C++/Python/Arduino/Eagle/Fusion 360
 
 - 🔭 I’m currently working on an FM Radio and Alien Invasion 
 - 🌱 I’m currently learning Python & Arduino 
