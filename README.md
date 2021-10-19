@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Antonio Jimenez
 #### I am an electronic and coding enthusiast
 
-![](https://komarev.com/ghpvc/?username=AntonioJim45&lable=PROFILE+VIEWS)
+![Visitor Count](https://profile-counter.glitch.me/{AntonioJim45}/count.svg)
 
 
 I am currently a student attending technical college in Mechatronics. I enjoy coding and developing programs through C++, Python, and Java. I also enjoy developing electronic projects and create many kinds of projects from robotics, home automation, and wireless communication. I am continuously looking for opportunities to expand my skills in code and electronics.
