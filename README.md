@@ -5,7 +5,7 @@
 
 I am currently a student attending technical college in Mechatronics. I enjoy coding and developing programs through C++, Python, and Java. I also enjoy developing electronic projects and create many kinds of projects from robotics, home automation, and wireless communication. I am continuously looking for opportunities to expand my skills in code and electronics.
 
-Skills: C++/ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> /Arduino/Eagle/Fusion 360
+Skills: C++/<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">/Arduino/Eagle/Fusion 360
 
 - 🔭 I’m currently working on an FM Radio and Alien Invasion 
 - 🌱 I’m currently learning Python & Arduino 
