@@ -26,6 +26,9 @@ I am currently a student attending technical college in Mechatronics. I enjoy co
 ### Featured Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Antoniojim45&repo=Alien-Invasion&theme=tokyonight)]
 
+<!--START_SECTION:activity-->
+
+
 <!-- 
     Note: 
         <p align="left">
