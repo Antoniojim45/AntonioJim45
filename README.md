@@ -2,7 +2,7 @@
 ### I am an electronic and coding enthusiast
 
 ### 🎧:Spotify Playing
-[![Spotify](https://antonio.jimenez.41520.vercel.app/api/spotify)](https://open.spotify.com/user/antonio.jimenez.41520)
+[![Spotify](https://Antoniojim45.vercel.app/api/spotify)](https://open.spotify.com/user/Antoniojim45)
 
 
 
